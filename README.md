@@ -2,6 +2,8 @@
 
 Bazı notlarım 
 
+19.09.2022
+
 -  ### Yazılımın arkasındaki felsefeyi anlamak önemli.
 
 - Ahtapot gibi olabiliyoruz,daldan dala atlıyoruz.
