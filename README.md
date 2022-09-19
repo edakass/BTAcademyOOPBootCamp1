@@ -2,7 +2,7 @@
 
 Bazı notlarım 
 
-- _ Yazılımın arkasındaki felsefeyi anlamak önemli.
+-  # Yazılımın arkasındaki felsefeyi anlamak önemli.
 
 - Ahtapot gibi olabiliyoruz,daldan dala atlıyoruz.
 
