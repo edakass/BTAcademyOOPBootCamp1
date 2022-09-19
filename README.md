@@ -6,7 +6,7 @@ Bazı notlarım
 
 - Ahtapot gibi olabiliyoruz,daldan dala atlıyoruz.
 
-- ** Başlangıç önemli değil,hedef önemli.
+- ### Başlangıç önemli değil,hedef önemli.
 
 -  git init
 
@@ -16,7 +16,7 @@ Bazı notlarım
    
 - En önemli şeylerden biri Obje'yi anlamak.
 
-- **OOP'nin kullanılması yazılımcı içindir. Kullanıcı için değil.
+- ### OOP'nin kullanılması yazılımcı içindir. Kullanıcı için değil.
 
 - Reusabitlity -> Mesela kalemi tekrar tekrar kullanabiliyorum
 
@@ -34,7 +34,7 @@ Bazı notlarım
 
 - Class,nesnenin nasıl olacağına dair tanımıdır.
 
-- Descartesin benlik kavramını çalış. Buradaki benzetimimiz ben adımdan dolayı string miyim,evliliğimden dolayı boolean mıyım, ben yaşımdan dolayı int miyim? Ben hepsiyim. Ideal bizim classımızdır.
+- ### Descartesin benlik kavramını çalış. Buradaki benzetimimiz ben adımdan dolayı string miyim,evliliğimden dolayı boolean mıyım, ben yaşımdan dolayı int miyim? Ben hepsiyim. Ideal bizim classımızdır.
 
 - class -> kedi nedir ? (bir tanım)
 
