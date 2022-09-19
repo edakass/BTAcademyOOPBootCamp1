@@ -30,7 +30,7 @@ Bazı notlarım
 
 - Felsefe de ise objenin üzerinde duranlar ise : Sokrates ve Descartes'tir.
 
-- idea evreni nedir araştırma yap.
+- # idea evreni nedir araştırma yap.
 
 - Class,nesnenin nasıl olacağına dair tanımıdır.
 
