@@ -6,7 +6,7 @@ Bazı notlarım
 
 - Ahtapot gibi olabiliyoruz,daldan dala atlıyoruz.
 
-- ### Başlangıç önemli değil,hedef önemli.
+- # Başlangıç önemli değil,hedef önemli.
 
 -  git init
 
